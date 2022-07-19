@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/Mes-applications/Room/app/src/main/res/layout/fragment_welcome.xml" value="0.176" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room - Copie-good/app/src/main/res/drawable-v24/answers_box.xml" value="0.2195" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room - Copie-good/app/src/main/res/layout/fragment_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room - Copie/app/src/main/res/layout/fragment_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room/app/src/main/res/layout/fragment_explication.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room/app/src/main/res/layout/fragment_game.xml" value="0.264" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room/app/src/main/res/layout/fragment_list_question.xml" value="0.2359375" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room/app/src/main/res/layout/fragment_welcome.xml" value="0.264" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room/app/src/main/res/layout/item_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room1/app/src/main/res/layout/fragment_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room1/app/src/main/res/layout/item_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_DataBinding/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_DataBinding/app/src/main/res/layout/fragment_explication.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_DataBinding/app/src/main/res/layout/fragment_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_DataBinding/app/src/main/res/layout/fragment_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_DataBinding/app/src/main/res/layout/fragment_welcome.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_DataBinding/app/src/main/res/layout/item_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_good/app/src/main/res/layout/fragment_welcome.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33629/Documents/Code Applications kotlin/work/Room_save/app/src/main/res/layout/fragment_list_question.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/welcomeFragment">
+
+    <fragment
+        android:id="@+id/welcomeFragment"
+        android:name="com.example.room.screens.WelcomeFragment"
+        android:label="fragment_welcome"
+        tools:layout="@layout/fragment_welcome" >
+        <action
+            android:id="@+id/action_welcomeFragment_to_gameFragment"
+            app:destination="@id/gameFragment" />
+        <action
+            android:id="@+id/action_welcomeFragment_to_listQuestionFragment"
+            app:destination="@id/listQuestionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.example.room.screens.GameFragment"
+        android:label="fragment_game"
+        tools:layout="@layout/fragment_game" >
+        <action
+            android:id="@+id/action_gameFragment_to_explicationFragment"
+            app:destination="@id/explicationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/listQuestionFragment"
+        android:name="com.example.room.screens.ListQuestionFragment"
+        android:label="fragment_list_question"
+        tools:layout="@layout/fragment_list_question" />
+    <fragment
+        android:id="@+id/explicationFragment"
+        android:name="com.example.room.screens.ExplicationFragment"
+        android:label="fragment_explication"
+        tools:layout="@layout/fragment_explication" />
+</navigation>

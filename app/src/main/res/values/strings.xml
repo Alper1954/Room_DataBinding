@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Room</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_question">Next</string>
+    <string name="question">Question</string>
+    <string name="explication">Explication</string>
+    <string name="valid">Valid</string>
+    <string name="liste_des_questions">Liste_questions</string>
+
+    <string-array name="question_types">
+        <item>Tous</item>
+        <item>Physique</item>
+        <item>Astronomie</item>
+        <item>Chimie</item>
+        <item>Biologie</item>
+        <item>Botanique</item>
+        <item>Géologie</item>
+    </string-array>
+
+</resources>
